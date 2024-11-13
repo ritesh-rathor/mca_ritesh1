@@ -1,0 +1,9 @@
+#github commands
+
+git init
+
+git config --global user.name "ritesh"
+git config --global user.email "rathoreritesh67@gmail.com"
+
+git add.
+git commit -m "first commit"
